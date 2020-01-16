@@ -2,6 +2,8 @@ package com.usa.smarttechA;
 
 public class Testlooping {
 	public static void main(String[] args) {
+		
+		System.out.println("just for testing");
 		int i;
 		for(i = 0;i<=10; i++) {
 		System.out.println(i);	
